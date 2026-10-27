@@ -41,22 +41,13 @@ const developer = {
 
 </div>
 
-> Hapus ikon yang tidak Anda kuasai pada bagian `?i=...` agar jujur dan rapi.
-
 <br/>
 
 ## `> stats --github`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adetopan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05080f&title_color=00f0ff&icon_color=b44dff&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adetopan&layout=compact&theme=tokyonight&hide_border=true&bg_color=05080f&title_color=00f0ff&text_color=c9d1d9" />
-
 <img src="https://streak-stats.demolab.com/?user=adetopan&theme=tokyonight&hide_border=true&background=05080f&ring=00f0ff&fire=b44dff&currStreakLabel=00f0ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=7dd8e6" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=adetopan&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1" />
 
 </div>
 

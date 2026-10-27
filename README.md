@@ -71,9 +71,8 @@ const developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-05080f?style=for-the-badge&logo=linkedin&logoColor=00f0ff)](https://linkedin.com/in/adetopan)
-[![Instagram](https://img.shields.io/badge/Instagram-05080f?style=for-the-badge&logo=instagram&logoColor=b44dff)](https://instagram.com/adetopan)
-[![Email](https://img.shields.io/badge/Email-05080f?style=for-the-badge&logo=gmail&logoColor=00f0ff)](mailto:email@anda.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-05080f?style=for-the-badge&logo=linkedin&logoColor=00f0ff)](https://id.linkedin.com/in/ade-topan-prayoga-5b6a77192)
+[![Instagram](https://img.shields.io/badge/Instagram-05080f?style=for-the-badge&logo=instagram&logoColor=b44dff)](https://www.instagram.com/yo.gss/)
 
 <br/>
 

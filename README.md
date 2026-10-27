@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ade%20Topan%20Prayoga&fontSize=44&fontColor=00f0ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Programmer&descAlignY=58&descSize=20&descColor=ffffff" width="100%"/>
 
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/adetopan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Halo%2C+saya+Ade+Topan+Prayoga+👋;Full+Stack+Programmer;Frontend+%7C+Backend+%7C+Database;Membangun+aplikasi+web+yang+cepat+dan+modern" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=00f0ff&style=for-the-badge&label=VIEWS)
-![Followers](https://img.shields.io/github/followers/USERNAME?style=for-the-badge&color=0f2027&labelColor=203a43&logo=github)
-![Stars](https://img.shields.io/github/stars/USERNAME?style=for-the-badge&color=0f2027&labelColor=203a43&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=adetopan&color=00f0ff&style=for-the-badge&label=VIEWS)
+![Followers](https://img.shields.io/github/followers/adetopan?style=for-the-badge&color=0f2027&labelColor=203a43&logo=github)
+![Stars](https://img.shields.io/github/stars/adetopan?style=for-the-badge&color=0f2027&labelColor=203a43&logo=github)
 
 </div>
 
@@ -18,16 +18,8 @@
 
 ## 👨‍💻 Tentang Saya
 
-```text
-┌──────────────────────────────────────────┐
-│  Nama    : Ade Topan Prayoga             │
-│  Profesi : Full Stack Programmer         │
-│  Lokasi  : Indonesia 🇮🇩                  │
-│  Fokus   : Web App • API • Database      │
-│  Status  : Open for collaboration ✅     │
-└──────────────────────────────────────────┘
-```
-
+- 👤 **Ade Topan Prayoga** — Full Stack Programmer
+- 📍 Indonesia 🇮🇩
 - 🔭 Sedang mengerjakan **proyek web full stack**
 - 🌱 Terus belajar teknologi baru setiap hari
 - 🤝 Terbuka untuk **kolaborasi & proyek freelance**
@@ -71,16 +63,14 @@
 
 </div>
 
-> Hapus teknologi yang tidak Anda pakai dan sisakan yang benar-benar dikuasai.
-
 ## 📊 Statistik GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adetopan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adetopan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff" />
 
-<img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" />
+<img src="https://streak-stats.demolab.com/?user=adetopan&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" />
 
 </div>
 
@@ -88,8 +78,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/adetopan)
+[![Instagram](https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/adetopan)
 [![Email](https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:email@anda.com)
 
 <br/>
